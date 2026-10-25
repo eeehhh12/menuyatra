@@ -1,0 +1,25 @@
+# Unreal Engine 5 - generated files and local caches
+# Keep Content/, Config/, Source/, Build/, and required Plugins/ in version control.
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE and operating system files
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+*.sdf
+*.opensdf
+*.xcodeproj
+*.xcworkspace
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
